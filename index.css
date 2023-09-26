@@ -1,0 +1,31 @@
+.this-image{
+height:275px;
+width:350px;
+}
+
+.this-width{
+    width:80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.this-img-size{
+  height:auto;
+  width:auto;
+}
+
+.this-font-style{
+    font-family: 'Open Sans';
+  }
+
+.this-font-size{
+    font-size: 20px;
+}
+a:visited {
+    color: white;
+  }
+  
+  a:hover {
+    color:yellow;
+    text-decoration: none;
+  }
